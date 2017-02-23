@@ -1,0 +1,9 @@
+DataBase: mysql
+root: root
+password: admin
+ 
+In the system:
+	Adminiastrator： admin  admin
+	Common   User ： user user
+SoftWareBy： Eclipse 	 
+JDK Version: 1.8
